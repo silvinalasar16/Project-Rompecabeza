@@ -29,12 +29,12 @@ li::before {
   background-color:
 }
 .col-40 {
-  background: rgb(252, 240, 157);
+  background: rgb(232, 211, 68);
   padding: 30px;
   color: #000;
 }
 .col-60 {
-  background-color: rgba(119, 64, 175, 0.68);
+  background-color: rgba(245, 202, 72, 0.6);
   padding-left: 1.5%;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
